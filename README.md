@@ -87,6 +87,8 @@ Co-Fundador & Desenvolvedor
 ## 📫 Contato
 
 📧 [efdev.oficial@gmail.com](mailto:efdev.oficial@gmail.com)
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/67f18d6b-6786-4ff9-af27-d616a9861f15" /> [Instagram](https://www.instagram.com/efdev.oficial/)
+
 
 🌐 Em breve: Site Oficial da EFDev
 
