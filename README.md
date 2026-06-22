@@ -70,7 +70,7 @@ Co-Fundador & Desenvolvedor
 
 ## 📫 Contato
 
-📧 [contato.efdev@gmail.com](mailto:contato.efdev@gmail.com)
+📧 [efdev.oficial@gmail.com](mailto:efdev.oficial@gmail.com)
 
 🌐 Em breve: Site Oficial da EFDev
 
