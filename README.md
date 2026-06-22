@@ -92,7 +92,7 @@ Nosso objetivo é transformar ideias em projetos inovadores, entregando tecnolog
 </a>
 </td>
 <td align="center" width="50%">
-<img src="https://github.com/FabioTelles.png" width="80" style="border-radius:50%"/><br/>
+<img src="https://avatars.githubusercontent.com/u/212973109?v=4" width="80" style="border-radius:50%"/><br/>
 <b>Fábio Telles</b><br/>
 <sub>Co-Fundador & Desenvolvedor</sub><br/><br/>
 <a href="https://www.instagram.com/fabio.tls/">
