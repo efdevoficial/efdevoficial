@@ -78,9 +78,15 @@ Nosso objetivo é transformar ideias em projetos inovadores, entregando tecnolog
 
 Co-Fundador & Desenvolvedor
 
+## 📫 Contato
+📧 [Instagram](https://www.instagram.com/esdrass.01/)
+
 ### 🔹 Fábio Telles
 
 Co-Fundador & Desenvolvedor
+
+## 📫 Contato
+📧 [Instagram](https://www.instagram.com/fabio.tls/)
 
 ---
 
