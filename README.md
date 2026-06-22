@@ -84,7 +84,7 @@ Nosso objetivo é transformar ideias em projetos inovadores, entregando tecnolog
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://github.com/EsdraSantos.png" width="80" style="border-radius:50%"/><br/>
+<img src="https://avatars.githubusercontent.com/u/186848050?v=4" width="80" style="border-radius:50%"/><br/>
 <b>Esdras Santos</b><br/>
 <sub>Co-Fundador & Desenvolvedor</sub><br/><br/>
 <a href="https://www.instagram.com/esdrass.01/">
