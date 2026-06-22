@@ -44,7 +44,7 @@ Nosso objetivo é transformar ideias em projetos inovadores, entregando tecnolog
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,python,java,react,firebase,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,java,react,firebase,mysql,git,github,vscode"/>
 
 </div>
 
