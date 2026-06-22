@@ -86,7 +86,7 @@ Co-Fundador & Desenvolvedor
 
 ## 📫 Contato
 
-📧 [efdev.oficial@gmail.com](mailto:efdev.oficial@gmail.com)
+📧 [efdev.oficial@gmail.com](mailto:efdev.oficial@gmail.com) <br>
 📧 [Instagram](https://www.instagram.com/efdev.oficial/)
 
 
