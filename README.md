@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:3B82F6&height=180&section=header&text=EFDev%20Tecnologia&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Transformando%20ideias%20em%20soluções%20digitais&descAlignY=58&descSize=16&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desenvolvimento+Web+%7C+Sistemas+%7C+Automações;Soluções+digitais+para+o+seu+negócio;Qualidade+%2B+Inovação+%2B+Resultado" alt="Typing SVG" />
 
 <br/>
 
